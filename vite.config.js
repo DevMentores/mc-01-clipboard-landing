@@ -1,4 +1,3 @@
-import htmlPurge from "vite-plugin-html-purgecss";
 const path = require("path");
 
 export default {
@@ -12,5 +11,4 @@ export default {
 	},
 
 	// install plugins for html purge
-	plugins: [htmlPurge()],
 };
