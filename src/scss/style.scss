@@ -1,2 +1,6 @@
 // Import all of Bootstrap's CSS
 @import "bootstrap/scss/bootstrap";
+
+// Import your custom styles after Bootstrap
+@import "./Global/utilities";
+@import "./Global/variables";

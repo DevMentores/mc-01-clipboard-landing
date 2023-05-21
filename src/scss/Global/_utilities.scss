@@ -1,0 +1,90 @@
+@use "variables.scss" as *;
+
+// Colors
+
+.strong-cyan {
+	color: $strongCyan;
+}
+
+.light-blue {
+	color: $lightBlue;
+}
+
+.dark-grayish-blue {
+	color: $DarkGrayishBlue;
+}
+
+.grayish-blue {
+	color: $GrayishBlue;
+}
+
+// background-color
+
+.bg-strong-cyan {
+	background-color: $strongCyan;
+}
+
+.bg-light-blue {
+	background-color: $lightBlue;
+}
+
+.bg-dark-grayish-blue {
+	background-color: $DarkGrayishBlue;
+}
+
+.bg-grayish-blue {
+	background-color: $GrayishBlue;
+}
+
+// font-family
+.ff-bai {
+	font-family: $ff-Jamjuree;
+}
+
+.ff-comfortaa {
+	font-family: $ff-comforta;
+}
+
+// font-size
+
+.fs-48 {
+	font-size: $fs-48 * 2;
+}
+
+.fs-32 {
+	font-size: $fs-32;
+}
+
+.fs-24 {
+	font-size: $fs-24;
+}
+
+.fs-18 {
+	font-size: $fs-18;
+}
+
+.fs-16 {
+	font-size: $fs-16;
+}
+
+.fs-14 {
+	font-size: $fs-14;
+}
+
+.fs-12 {
+	font-size: $fs-12;
+}
+
+// font-weight
+
+.fw-600 {
+	font-weight: $fw-600;
+}
+
+.fw-300 {
+	font-weight: $fw-300;
+}
+
+.fw-400 {
+	font-weight: $fw-400;
+}
